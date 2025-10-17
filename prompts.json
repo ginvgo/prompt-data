@@ -1,0 +1,4 @@
+[
+  { "id": "p1", "title": "产品标题生成器", "category": "listing", "subcategory": "title", "description": "...", "content": "...", "content_en": "...", "params": [...] },
+  { "id": "p2", "title": "五点描述优化", "category": "listing", "subcategory": "bullets", "description": "...", "content": "...", "content_en": "...", "params": [...] }
+]
