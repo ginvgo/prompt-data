@@ -1,0 +1,14 @@
+{
+  "categories": {
+    "favorites": { "name": "我的收藏", "icon": "fa-star", "tooltip": "..." },
+    "all": { "name": "全部", "icon": "fa-border-all", "tooltip": "..." },
+    "listing": { "name": "产品Listing", "icon": "fa-list-alt", "subcategories": { ... } }
+  },
+  "taskFlows": [
+    { "id": "tf1", "title": "新品上架全流程", "description": "...", "stages": [...] }
+  ],
+  "stats": [
+    { "number": "300+", "label": "精选Prompt" },
+    { "number": "12", "label": "应用场景" }
+  ]
+}
